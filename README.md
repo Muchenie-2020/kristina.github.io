@@ -14,13 +14,13 @@
 
 <img src=https://github.com/Muchenie-2020/kristina.github.io/blob/5132d0a1b940f676a6702df57d7c7eb4351890fa/Лабораторная%20работа%20№1/Диаграмма%20классов.png>
 
-[Код диаграммы классов] (https://github.com/Muchenie-2020/kristina.github.io/blob/main/Лабораторная%20работа%20№1/Диаграмма%20классов.txt)
+[Код диаграммы классов](https://github.com/Muchenie-2020/kristina.github.io/blob/main/Лабораторная%20работа%20№1/Диаграмма%20классов.txt)
 
 ### Создание диаграммы прецедентов в PLANTUML:
 
 <img src=https://github.com/Muchenie-2020/kristina.github.io/blob/5132d0a1b940f676a6702df57d7c7eb4351890fa/Лабораторная%20работа%20№1/Диаграмма%20прецедентов.png>
 
-[Код диаграммы прецедентов] (https://github.com/Muchenie-2020/kristina.github.io/blob/main/Лабораторная%20работа%20№1/Диаграмма%20прецедентов.txt)
+[Код диаграммы прецедентов](https://github.com/Muchenie-2020/kristina.github.io/blob/main/Лабораторная%20работа%20№1/Диаграмма%20прецедентов.txt)
 
 ## Лабораторная работа №2
 
