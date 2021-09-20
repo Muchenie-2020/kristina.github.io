@@ -1,33 +1,15 @@
-# Отчеты о лабораторных работах
-# студент группы ИДБ-18-06 Кузнецова К.И.
+# ИДБ-18-06 Кузнецова Кристина
 
-## Лабораторная работа №1
+### Домашнее задание по [семинару №1](https://github.com/stankin/design-part-1/wiki/sem1)
 
-### Создание IDEF0
-Предложение до: создать виртуальный музей.
+### Домашнее задание по [семинару №2](https://github.com/stankin/design-part-1/wiki/sem2)
 
-<img src=https://github.com/Muchenie-2020/kristina.github.io/blob/5132d0a1b940f676a6702df57d7c7eb4351890fa/Лабораторная%20работа%20№1/IDEF0.png>
+### Домашнее задание по [семинару №3](https://github.com/stankin/design-part-1/wiki/sem3)
 
-Предложение после: получив фото и видео материалы, Разработчик по ТЗ создает сайт с виртуальным музеем на WordPress при помощи Image Composite Editor и Kolor Panotour Pro, учитывая требования Заказчика.
+### Домашнее задание по [семинару №4](https://github.com/stankin/design-part-1/wiki/sem4)
 
-### Создание диаграммы классов в PLANTUML:
+### Отчет по [Лабораторным работам №1-3](https://github.com/Muchenie-2020/kristina.github.io/wiki/Лабораторные-работы-1-3)
 
-<img src=https://github.com/Muchenie-2020/kristina.github.io/blob/5132d0a1b940f676a6702df57d7c7eb4351890fa/Лабораторная%20работа%20№1/Диаграмма%20классов.png>
+### Отчет по [Лабораторным работам №4-6]()
 
-[Код диаграммы классов](https://github.com/Muchenie-2020/kristina.github.io/blob/main/Лабораторная%20работа%20№1/Диаграмма%20классов.txt)
-
-### Создание диаграммы прецедентов в PLANTUML:
-
-<img src=https://github.com/Muchenie-2020/kristina.github.io/blob/main/Лабораторная%20работа%20№1/Диаграмма%20прецедентов%20new.png>
-
-[Код диаграммы прецедентов](https://github.com/Muchenie-2020/kristina.github.io/blob/main/Лабораторная%20работа%20№1/Диаграмма%20прецедентов.txt)
-
-## Лабораторная работа №2
-
-## Лабораторная работа №3
-
-## Лабораторная работа №4
-
-## Лабораторная работа №5
-
-## Лабораторная работа №6
+### Рефераты: [разработанный]() и [проверенный]()
