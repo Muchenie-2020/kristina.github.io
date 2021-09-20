@@ -18,7 +18,7 @@
 
 ### Создание диаграммы прецедентов в PLANTUML:
 
-<img src=https://github.com/Muchenie-2020/kristina.github.io/blob/5132d0a1b940f676a6702df57d7c7eb4351890fa/Лабораторная%20работа%20№1/Диаграмма%20прецедентов.png>
+<img src=>
 
 [Код диаграммы прецедентов](https://github.com/Muchenie-2020/kristina.github.io/blob/main/Лабораторная%20работа%20№1/Диаграмма%20прецедентов.txt)
 
