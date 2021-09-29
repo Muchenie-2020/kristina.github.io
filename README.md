@@ -4,11 +4,9 @@
 
 ### Домашнее задание по [семинару №2](https://github.com/stankin/design-part-1/wiki/sem2)
 
-### Домашнее задание по [семинару №3](https://github.com/stankin/design-part-1/wiki/sem3)
+### Домашнее задание по [семинарам №3-4](https://github.com/Muchenie-2020/kristina.github.io/wiki/Деловая-игра)
 
-### Домашнее задание по [семинару №4](https://github.com/stankin/design-part-1/wiki/sem4)
-
-### Отчет по [Лабораторным работам №1-3](https://github.com/Muchenie-2020/kristina.github.io/wiki/Лабораторные-работы-1-3)
+### Отчет по [Лабораторным работам №1-3](https://github.com/Muchenie-2020/kristina.github.io/wiki/Лабораторные-работы)
 
 ### Отчет по [Лабораторным работам №4-6]()
 
