@@ -1,0 +1,19 @@
+@startuml
+actor "Администратор" as owner
+boundary "Платформа" as app
+entity "Данные" as data
+boundary "Приложение" as apps
+actor "Разработчик" as trainee
+owner -> app : Запрос
+app -> data : Поиск 
+data -> app : Отзыв и оценка
+app -> owner : Ответ
+owner -> trainee : Требования и функциональные возможности
+trainee -> apps : Запрос
+loop
+apps -> data : Проверка 
+data -> apps : Результат
+end
+apps -> trainee : Ответ
+trainee -> owner : ОК
+@enduml
