@@ -10,4 +10,4 @@
 
 ### Отчет по [Лабораторным работам №4-6]()
 
-### Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam06-5) и [проверенный]()
+### Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam06-5) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam02-1)
