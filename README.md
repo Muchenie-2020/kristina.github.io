@@ -10,4 +10,6 @@
 
 ### Отчет по [Лабораторным работам №4-6]()
 
+### [Деловая игра](https://github.com/Muchenie-2020/kristina.github.io/wiki/Деловая-игра)
+
 ### Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam06-5) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam02-1)
