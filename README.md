@@ -10,8 +10,6 @@
 
 ### Отчет по [Лабораторным работам №4-6](https://github.com/Muchenie-2020/kristina.github.io/wiki/Отчет-по-лабораторным-работам-№4-6)
 
-### [Деловая игра](https://github.com/Muchenie-2020/kristina.github.io/wiki/Деловая-игра)
+### Проект Jacque's Sudoku от Jacque Fresco prod ([деловая игра](https://github.com/modernClown/JacqueFrescoProd))
 
 ### Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam06-5) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam02-1)
-
-### Проект [Jacque's Sudoku](https://github.com/modernClown/JacqueFrescoProd) от Jacque Fresco prod
