@@ -13,3 +13,5 @@
 ### Проект Jacque's Sudoku от Jacque Fresco prod ([деловая игра](https://github.com/modernClown/JacqueFrescoProd))
 
 ### Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam06-5) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam02-1)
+
+### [Курсовой проект](https://github.com/Muchenie-2020/kristina.github.io/wiki/Курсовой-проект)
