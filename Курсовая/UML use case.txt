@@ -1,0 +1,29 @@
+@startuml
+skinparam monochrome true
+hide circle
+hide methods
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Посетитель"
+actor "Пользователь"
+actor "Руководитель"
+actor "Владелец"
+
+rectangle Платформа {
+usecase case1 as "Ознакомиться с панелью управления"
+usecase case2 as "Прослушать экскурсию"
+usecase case3 as "Самостоятельно рассмотреть экспонаты"
+usecase case4 as "Заполнить форму обратной связи"
+
+Пользователь --> Посетитель
+Посетитель --> case1
+(case1) -> (case2)
+(case3) <- (case1)
+case3 --> case4
+case2 --> case4
+case4 --> Руководитель
+Руководитель --> Владелец
+}
+
+@enduml
