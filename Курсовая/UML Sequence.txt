@@ -1,0 +1,32 @@
+@startuml
+skinparam monochrome true
+
+actor "Посетитель" as user
+participant "Платформа" as cli
+database "База данных" as db
+
+activate user
+activate cli
+
+user -> cli: Нажатие кнопки "Оставить отзыв"
+cli -> user: Открытие формы "Отзыв"
+user -> cli: Заполнение формы "Отзыв"
+user -> cli: Нажатие кнопки "Отправить"
+
+cli-> db: Сохранение данных
+activate db
+db-> cli: 
+deactivate db
+
+cli -> user: Открытие формы "Оценка"
+user -> cli: Заполнение формы "Оценка"
+user -> cli: Нажатие кнопки "Оценить"
+
+cli-> db: Сохранение данных
+activate db
+db-> cli: 
+deactivate db
+
+cli -> user: Сообщение "Благодарим вас за оставленный отзыв!"
+
+@enduml
