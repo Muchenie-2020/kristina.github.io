@@ -1,0 +1,31 @@
+@startuml
+
+skinparam class {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+class In as "Входящий"
+class Out as "Выходящий"
+class man as "Управляющий"
+class vnutr as "Внутренний"
+class res as "Отчет о деятельности виртуального музея"
+class doc as "Документ"
+class fond as "Оцифрованный музейный фонд"
+class ph as "Фотографии"
+class rule as "Устав"
+
+Поток <|-- In
+Поток <|-- Out
+Поток <|-- man
+In <|-- ph
+man <|-- vnutr
+Out<|-- doc
+doc<|-- res
+ph<|-- fond
+vnutr <|-- rule
+
+hide members
+hide circle
+hide methods
+@enduml
